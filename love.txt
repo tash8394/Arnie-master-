@@ -6,8 +6,8 @@
     <title>For My Favorite Person</title>
     <style>
         :root {
-            --primary-pink: #ffafbd;
-            --deep-rose: #ffc3a0;
+            --primary-blue: #ffafbd;
+            --deep-purple: #ffc3a0;
             --text-color: #4a4a4a;
             --accent-red: #ff4d6d;
         }
