@@ -7,7 +7,7 @@
     <style>
         :root {
             --primary-blue: #ffafbd;
-            --deep-purple: #ffc3a0;
+            --deep-red: #ffc3a0;
             --text-color: #4a4a4a;
             --accent-red: #ff4d6d;
         }
@@ -115,7 +115,7 @@
     <div class="container">
         <div id="question-content">
             <div class="photo-frame">
-                <img src="your-photo.jpg" alt="Us" onerror="this.src='https://placehold.co/400x400?text=Photo+Goes+Here'">
+                <img src="Screenshot_2026-02-10-17-26-03-083_com.whatsapp" alt="Us" onerror="this.src='https://placehold.co/400x400?text=Photo+Goes+Here'">
             </div>
             <h1>Hi Handsome! ❤️</h1>
             <p>I have a very important question...</p>
